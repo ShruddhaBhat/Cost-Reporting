@@ -1,0 +1,155 @@
+Instance Type,Platform,Tenancy,Region,Average Coverage,Reservation Covered Hours,On-Demand Hours,Total Running Hours,On-Demand Cost
+p2.xlarge,Linux/UNIX,Shared,us-east-2,0,0,27.925278,27.925278,25.1327502
+t2.medium,Windows (Amazon VPC),Shared,us-west-2,0,0,1377,1377,88.6788
+m4.4xlarge,Windows (Amazon VPC),Shared,us-east-1,0,0,404,404,620.544
+t2.small,Windows (Amazon VPC),Shared,us-east-1,0,0,438,438,14.016
+m4.2xlarge,Linux/UNIX,Shared,eu-central-1,0,0,689,689,330.72
+t3.nano,Linux/UNIX,Shared,eu-north-1,0,0,175,175,0.945
+m3.xlarge,Windows (Amazon VPC),Shared,us-east-1,0,0,688,688,356.384
+m4.large,Linux/UNIX,Shared,us-west-2,0,0,1.722777,1.722777,0.1722777
+t1.micro,Windows (Amazon VPC),Shared,eu-west-1,0,0,15847,15847,316.94
+m4.xlarge,Linux/UNIX,Shared,ca-central-1,0,0,2064,2064,458.208
+c4.2xlarge,Linux/UNIX,Shared,us-west-2,0,0,2.36389,2.36389,0.94082822
+r4.large,Windows (Amazon VPC),Shared,us-west-2,0,0,2064,2064,464.4
+r4.2xlarge,Windows (Amazon VPC),Shared,eu-west-1,0,0,28,28,26.9024
+t2.micro,Linux/UNIX,Shared,us-west-1,0,0,1377,1377,19.0026
+t2.micro,Linux/UNIX,Shared,us-west-2,0,0,2064,2064,23.9424
+m3.medium,Windows (Amazon VPC),Shared,us-east-1,0,0,637,637,82.81
+m3.medium,Windows (Amazon VPC),Shared,eu-west-1,0,0,5509,5509,710.661
+t3.large,Windows (Amazon VPC),Shared,eu-west-1,0,0,681,681,80.9028
+t2.large,Windows (Amazon VPC),Shared,eu-west-1,0,0,736,736,94.7968
+t1.micro,Linux/UNIX,Shared,us-east-1,0,0,1376,1376,27.52
+t2.large,Linux/UNIX,Shared,eu-central-1,0,0,802.101945,802.101945,85.9853285
+m5a.large,Linux/UNIX,Shared,eu-central-1,0,0,689,689,71.656
+m4.xlarge,Windows (Amazon VPC),Shared,us-east-1,0,0,2614,2614,1003.776
+r4.2xlarge,SUSE Linux,Shared,us-east-1,0,0,17,17,10.744
+c5.large,Linux/UNIX,Shared,us-east-2,0,0,689,689,58.565
+t2.medium,Linux/UNIX,Shared,us-west-2,0,0,2752,2752,127.6928
+r5ad.4xlarge,Windows (Amazon VPC),Shared,us-east-2,0,0,1376,1376,2454.784
+r3.2xlarge,Windows (Amazon VPC),Shared,us-east-1,0,0,185,185,193.325
+m5a.24xlarge,Linux/UNIX,Shared,eu-west-1,0,0,331.987497,331.987497,1529.798386
+r3.large,Windows (Amazon VPC),Shared,us-east-2,0,0,689,689,200.499
+g2.2xlarge,Linux/UNIX,Shared,us-east-1,0,0,8.180556,8.180556,5.3173614
+t2.medium,Windows (Amazon VPC),Shared,eu-central-1,0,0,2064,2064,147.7824
+c5.xlarge,Red Hat Enterprise Linux,Shared,us-east-1,0,0,4,4,0.92
+t2.small,Linux/UNIX,Shared,eu-central-1,0,0,3442,3442,92.2456
+m4.large,Linux/UNIX,Shared,ca-central-1,0,0,2067,2067,229.437
+r4.xlarge,Windows (Amazon VPC),Shared,ap-southeast-2,0,0,4832,4832,2431.4624
+t3.micro,Linux/UNIX,Shared,eu-north-1,0,0,1318.985834,1318.985834,14.24504701
+r5.8xlarge,Windows (Amazon VPC),Shared,us-east-1,0,0,122,122,425.536
+t2.medium,Linux/UNIX,Shared,us-east-2,0,0,4821,4821,223.6944
+r5.2xlarge,Windows (Amazon VPC),Shared,us-east-1,0,0,235,235,204.92
+t3.2xlarge,Linux/UNIX,Shared,us-east-2,0,0,689,689,229.2992
+t2.large,Windows (Amazon VPC),Shared,us-west-2,0,0,1378,1378,166.4624
+t2.2xlarge,Linux/UNIX,Shared,us-west-2,0,0,1376,1376,510.7712
+m1.small,Linux/UNIX,Shared,us-east-1,0,0,688.016667,688.016667,30.27273335
+t2.micro,Linux/UNIX,Shared,eu-central-1,0,0,2066,2066,27.6844
+t2.micro,Linux/UNIX,Shared,sa-east-1,0,0,688,688,12.7968
+c4.large,Windows (Amazon VPC),Shared,us-east-1,0,0,688,688,132.096
+c5n.large,Linux/UNIX,Shared,us-east-1,0,0,468.693889,468.693889,50.61894001
+m5a.large,Linux/UNIX,Shared,us-east-2,0,0,65.835,65.835,5.66181
+c3.large,Windows (Amazon VPC),Shared,us-east-1,0,0,380,380,71.44
+t2.medium,Windows (Amazon VPC),Shared,ap-southeast-1,0,0,1375,1375,105.05
+m3.large,Linux/UNIX,Shared,eu-west-1,0,0,688,688,100.448
+c5.large,Linux/UNIX,Shared,ap-southeast-2,0,0,218.788052,218.788052,24.28547377
+i3.xlarge,Linux/UNIX,Shared,us-west-2,0,0,1377,1377,429.624
+p2.xlarge,Linux/UNIX,Shared,us-east-1,0,0,2.332777,2.332777,2.0994993
+m3.medium,Linux/UNIX,Shared,eu-west-1,0,0,4818,4818,351.714
+t2.medium,Windows (Amazon VPC),Shared,eu-west-1,0,0,1376,1376,93.568
+t3.large,Linux/UNIX,Shared,us-east-1,0,0,0.033889,0.033889,0.002819565
+c5d.4xlarge,Linux/UNIX,Shared,us-east-1,0,0,0.180833,0.180833,0.138879744
+m4.xlarge,Windows (Amazon VPC),Dedicated,us-east-1,0,0,688,688,277.952
+r5a.xlarge,Windows (Amazon VPC),Shared,eu-west-1,0,0,2,2,0.876
+r4.large,Windows (Amazon VPC),Shared,eu-west-1,0,0,28,28,6.7256
+t2.medium,Linux/UNIX,Shared,eu-central-1,0,0,689,689,36.9304
+r5.xlarge,Windows (Amazon VPC),Shared,eu-west-1,0,0,8,8,3.728
+c5d.2xlarge,Linux/UNIX,Shared,eu-west-1,0,0,9.302222,9.302222,4.055768792
+m5a.xlarge,Linux/UNIX,Shared,eu-west-1,0,0,1.718056,1.718056,0.329866752
+c1.medium,Windows (Amazon VPC),Shared,us-east-1,0,0,1376,1376,288.96
+p3.2xlarge,Linux/UNIX,Shared,us-east-1,0,0,0.919167,0.919167,2.81265102
+m4.large,Windows (Amazon VPC),Shared,us-east-1,0,0,1149,1149,220.608
+i3.metal,Linux/UNIX,Shared,us-east-1,8.13E-04,1.873333,2303.511668,2305.385001,11499.13025
+m3.medium,Linux/UNIX,Shared,ap-southeast-2,0.001694915,7,4123,4130,383.439
+r4.xlarge,Windows (Amazon VPC),Shared,us-east-1,0.002382055,36,15077,15113,6784.65
+r4.large,Windows (Amazon VPC),Shared,us-east-1,0.007997715,28,3473,3501,781.425
+r4.2xlarge,Windows (Amazon VPC),Shared,us-east-1,0.010174419,7,681,688,612.9
+c5.9xlarge,Linux/UNIX,Shared,us-east-1,0.010675255,0.9995063,92.6288277,93.628334,141.7221064
+r4.2xlarge,Windows with SQL Server Standard,Shared,us-east-1,0.015988372,22,1354,1376,2518.44
+t2.micro,Linux/UNIX,Shared,eu-west-1,0.020545872,136.09214,6487.727026,6623.819166,81.74536053
+m3.large,Windows (Amazon VPC),Shared,eu-west-1,0.037749546,104,2651,2755,683.958
+r4.4xlarge,Linux/UNIX,Shared,us-east-1,0.039244186,27,661,688,703.304
+r4.2xlarge,Linux/UNIX,Shared,us-east-1,0.042446803,571.5,12892.41167,13463.91167,6858.763006
+t3.medium,Linux/UNIX,Shared,ap-southeast-2,0.071309823,49.125,639.770278,688.895278,33.77987068
+i3.8xlarge,Linux/UNIX,Shared,eu-west-1,0.082388597,113.130277,1260,1373.130277,3467.52
+r4.xlarge,Linux/UNIX,Shared,us-east-1,0.106341395,731.735139,6149.264861,6881,1635.704453
+t2.micro,Linux/UNIX,Shared,us-east-1,0.116364346,1942.238884,14748.77473,16691.01361,171.0857868
+m5a.2xlarge,Linux/UNIX,Shared,us-east-1,0.162129815,223.090625,1152.909375,1376,396.600825
+t2.2xlarge,Windows (Amazon VPC),Shared,eu-west-1,0.175487465,126,592,718,275.3984
+r4.large,Linux/UNIX,Shared,us-east-1,0.208025102,5200.529722,19799,24999.52972,2633.267
+m4.2xlarge,Linux/UNIX,Shared,ap-southeast-2,0.218118523,2528.819861,9064.967918,11593.78778,4532.483959
+m5.2xlarge,Linux/UNIX,Shared,us-east-1,0.221617252,6986.053264,24537.00368,31523.05694,9422.209413
+r5.2xlarge,Linux/UNIX,Shared,us-east-1,0.224979732,2955.336386,10180.67528,13136.01166,5131.060339
+r4.xlarge,Linux/UNIX,Shared,ap-southeast-2,0.243482177,1547.368057,4807.791396,6355.159453,1534.647014
+m5.large,Linux/UNIX,Shared,us-east-1,0.244453315,3178.671944,9824.514167,13003.18611,943.15336
+t2.xlarge,Linux/UNIX,Shared,us-east-1,0.247104698,398.4391655,1213.991391,1612.430556,225.3168021
+t2.micro,Windows (Amazon VPC),Shared,us-east-1,0.25,172,516,688,8.3592
+m3.xlarge,Linux/UNIX,Shared,us-east-1,0.275654617,1778.5,4673.414437,6451.914437,1243.12824
+m5.xlarge,Red Hat Enterprise Linux,Shared,us-east-1,0.275996534,2548,6684,9232,1684.368
+t2.large,Linux/UNIX,Shared,us-east-1,0.280528299,1569,4024.018611,5593.018611,373.4289271
+m4.2xlarge,Linux/UNIX,Shared,us-east-1,0.282564246,388.8084028,987.1915973,1376,394.8766389
+m4.large,Linux/UNIX,Shared,us-east-1,0.282610638,2373.094167,6023.950562,8397.044729,602.3950562
+t2.micro,Linux/UNIX,Shared,ap-southeast-2,0.283224401,390,987,1377,14.4102
+r5.large,Linux/UNIX,Shared,us-east-1,0.284373465,1176,2959.406944,4135.406944,372.8852749
+t3a.medium,Linux/UNIX,Shared,us-east-1,0.284556862,196,492.790278,688.790278,18.52891445
+t2.medium,Windows (Amazon VPC),Shared,us-east-1,0.284883721,1372,3444,4816,221.7936
+t2.small,Linux/UNIX,Shared,ap-southeast-2,0.284883721,588,1476,2064,43.0992
+t3a.micro,Linux/UNIX,Shared,us-east-1,0.284883721,196,492,688,4.6248
+m3.medium,Linux/UNIX,Shared,us-east-1,0.284883721,1764,4428,6192,296.676
+m4.xlarge,Linux/UNIX,Shared,us-east-1,0.285056915,1177,2952,4129,590.4
+r4.large,Linux/UNIX,Shared,ap-southeast-2,0.285167085,2159,5412,7571,863.7552
+t2.nano,Linux/UNIX,Shared,ap-southeast-2,0.285921626,394,984,1378,7.1832
+c4.xlarge,Linux/UNIX,Shared,us-east-1,0.313463317,202.267778,443,645.267778,88.157
+r4.xlarge,Windows (Amazon VPC),Shared,eu-west-1,0.319230486,4331,9236,13567,4436.9744
+m4.xlarge,Linux/UNIX,Shared,ap-southeast-2,0.32078543,868.360278,1838.62139,2706.981668,459.6553475
+t3.2xlarge,Windows (Amazon VPC),Shared,us-east-1,0.329165455,1132,2307,3439,1107.36
+t2.medium,Linux/UNIX,Shared,us-east-1,0.337574955,6969.895947,13677.06212,20646.95807,634.6156824
+r5.xlarge,Linux/UNIX,Shared,us-east-1,0.339792176,1881.783888,3656.259723,5538.043611,921.3774502
+t2.2xlarge,Windows (Amazon VPC),Shared,us-east-1,0.356104651,245,443,688,191.9076
+t2.large,Windows (Amazon VPC),Shared,us-east-1,0.356104651,980,1772,2752,214.0576
+t2.xlarge,Windows (Amazon VPC),Shared,us-east-1,0.393310178,5209,8035,13244,1820.731
+m5a.xlarge,Linux/UNIX,Shared,us-east-1,0.40433744,834.9275,1230,2064.9275,211.56
+m5.xlarge,Linux/UNIX,Shared,us-east-1,0.405277244,3769.5575,5531.624722,9301.182222,1062.071947
+r4.xlarge,SUSE Linux,Shared,us-east-1,0.427331887,197,264,461,96.624
+c5.4xlarge,Linux/UNIX,Shared,eu-west-1,0.447636383,8932.132049,11021.85824,19953.99029,8464.787128
+c4.large,Linux/UNIX,Shared,us-east-1,0.535056925,3.593056,3.122222,6.715278,0.3122222
+c4.2xlarge,Linux/UNIX,Shared,us-east-1,0.677969076,259.2962615,123.1640465,382.460308,49.01929051
+t2.xlarge,Linux/UNIX,Shared,eu-west-1,0.714051005,2948.316599,1180.683401,4129,238.0257736
+c5.4xlarge,Linux/UNIX,Shared,us-east-1,0.757391377,2988.343852,957.2303132,3945.574165,650.916613
+t3.medium,Linux/UNIX,Shared,us-east-1,0.783742901,5406.937778,1491.928889,6898.866667,62.06424178
+r5.2xlarge,Linux/UNIX,Shared,eu-west-1,0.949378504,7930.706112,422.870548,8353.57666,238.4989891
+m5.2xlarge,Linux/UNIX,Shared,eu-west-1,0.960768287,6419.454441,262.1300065,6681.584447,112.1916428
+m4.2xlarge,Linux/UNIX,Shared,eu-west-1,0.979803258,675.0844445,13.9155555,689,6.178506642
+c4.4xlarge,Linux/UNIX,Shared,eu-west-1,0.998618581,687.0495835,0.9504165,688,0.860126933
+c5.2xlarge,Linux/UNIX,Shared,us-east-1,0.999315758,1275.884442,0.873612,1276.758054,0.29702808
+c5.large,Linux/UNIX,Shared,eu-west-1,1,235.553332,0,235.553332,0
+c5.2xlarge,Linux/UNIX,Shared,eu-west-1,1,1379.173333,0,1379.173333,0
+c5.xlarge,Linux/UNIX,Shared,eu-west-1,1,104.020555,0,104.020555,0
+t3.medium,Linux/UNIX,Shared,eu-west-1,1,786.707501,0,786.707501,0
+m5.large,Linux/UNIX,Shared,eu-west-1,1,11713,0,11713,0
+c5.large,Linux/UNIX,Shared,us-east-1,1,5398.77945,0,5398.77945,0
+r3.2xlarge,Linux/UNIX,Shared,us-east-1,1,688,0,688,0
+t2.nano,Linux/UNIX,Shared,us-east-1,1,3005.990278,0,3005.990278,0
+c4.2xlarge,Linux/UNIX,Shared,eu-west-1,1,1.900833,0,1.900833,0
+r3.4xlarge,Linux/UNIX,Shared,us-east-1,1,688,0,688,0
+m4.xlarge,Linux/UNIX,Shared,eu-west-1,1,1377,0,1377,0
+m4.large,Linux/UNIX,Shared,eu-west-1,1,55.662222,0,55.662222,0
+t2.small,Linux/UNIX,Shared,us-east-1,1,3440,0,3440,0
+c5.xlarge,Linux/UNIX,Shared,us-east-1,1,1831.548067,0,1831.548067,0
+r4.xlarge,Linux/UNIX,Shared,eu-west-1,1,1376,0,1376,0
+t2.nano,Linux/UNIX,Shared,eu-west-1,1,1378,0,1378,0
+t2.medium,Linux/UNIX,Shared,eu-west-1,1,1938.309736,0,1938.309736,0
+t2.large,Linux/UNIX,Shared,eu-west-1,1,2066.364166,0,2066.364166,0
+r4.large,Linux/UNIX,Shared,eu-west-1,1,12403.24833,0,12403.24833,0
+m5.xlarge,Linux/UNIX,Shared,eu-west-1,1,1198.578057,0,1198.578057,0
+t2.small,Linux/UNIX,Shared,eu-west-1,1,2753,0,2753,0
+m5a.large,Linux/UNIX,Shared,us-east-1,1,1.7825,0,1.7825,0
