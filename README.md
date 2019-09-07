@@ -25,7 +25,7 @@ It also requires NumPy library for handling arrays. This comes as a default pack
 
 # Running the tests
 
-### Sample outputs (Hover over the image to see the description)
+### Sample outputs
 ![Least and most expensive intance types in the given data](./sample-outputs/Output1.png)
 ![Graph that shows the max and min priced instances of every region](./sample-outputs/Output2.png)
 ![Output which shows the total cost of untagged instances](./sample-outputs/Output3.png)
