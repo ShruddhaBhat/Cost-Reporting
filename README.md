@@ -11,7 +11,7 @@ This project contains `./instance-price.py` script written in python that calcul
 
 It also contains another script `untagged-cost.py` which reads from `Tags.csv file`, finds all those instances that does not have tags and calculates the total cost incurred by them. The sample output is represented in `./sample-outputs/Output3`
 
-[Question2](./On-Demand_Cost_Reduction_Recommendations.md) is a file which gives few recommendations on how the on-demand costs can be reduced for the usage given in `ri-instanceTypes.csv` file.
+![Question2](./On-Demand_Cost_Reduction_Recommendations.md) is a file which gives few recommendations on how the on-demand costs can be reduced for the usage given in `ri-instanceTypes.csv` file.
 
 # Pre-requisites
 
@@ -30,7 +30,7 @@ For saving the generated graph in jpg format, the program makes use of Python Im
 # Running the tests
 
 ### Sample outputs
-[Least and most expensive intance types in the given data](./sample-outputs/Output1.png)
+![Least and most expensive intance types in the given data](./sample-outputs/Output1.png)
 ![Graph that shows the max and min priced instances of every region](./sample-outputs/Output2.png)
 ![Output which shows the total cost of untagged instances](./sample-outputs/Output3.png)
 
