@@ -1,17 +1,17 @@
 # Cost-Reporting
 
-This project was created as part of SRE - Cost Engineer Assignment described in `SRE_Assignment_2019.docx`.
+This project was created as part of SRE - Cost Engineer Assignment described in [SRE_Assignment_2019.docx](./SRE_Assignment_2019.docx).
 
 # What does it contain?
 
-This project contains `./instance-price.py` script written in python that calculates
-  1. The least and most expensive AWS instance types given in `ri-instanceTypes.csv` file. Code execution and it's output can      be seen in `./sample-outputs/Output1.png`
-  2. The least and most expensive AWS instances in every region and plots them against their on-demand price-per-hour as a bar      graph and displays it on the screen as seen in `./sample-outputs/Output2.png`
-  3. It also saves this graph for analysis as an image file `./price-of-instances.jpg`
+This project contains [instance-price.py](./instance-price.py) script written in python that calculates
+  1. The least and most expensive AWS instance types given in [ri-instanceTypes.csv](./ri-instanceTypes.csv) file. Code            execution and it's output can be seen in [Output1](./sample-outputs/Output1.png) or below in the section ##### Running        the tests.
+  2. The least and most expensive AWS instances in every region and plots them against their on-demand price-per-hour as a bar      graph and displays it on the screen as seen in [Output2](./sample-outputs/Output2.png)
+  3. It also saves this graph for analysis as a jpg image file [price-of-instances.jpg](./price-of-instances.jpg)
 
-It also contains another script `untagged-cost.py` which reads from `Tags.csv file`, finds all those instances that does not have tags and calculates the total cost incurred by them. The sample output is represented in `./sample-outputs/Output3`
+It also contains another script [untagged-cost.py](./untagged-cost.py) which reads from [Tags.csv file](./Tags.csv) file, which finds all those instances that does not have tags and calculates the total cost incurred by them. The sample output is represented in [Output3](./sample-outputs/Output3)
 
-![Question2](./On-Demand_Cost_Reduction_Recommendations.md) is a file which gives few recommendations on how the on-demand costs can be reduced for the usage given in `ri-instanceTypes.csv` file.
+[On-Demand_Cost_Reduction_Recommendations.md](./On-Demand_Cost_Reduction_Recommendations.md) is a file which makes few recommendations on how the on-demand costs can be reduced for the usage given in [ri-instanceType.csv file](./ri-instanceTypes.csv).
 
 # Pre-requisites
 
